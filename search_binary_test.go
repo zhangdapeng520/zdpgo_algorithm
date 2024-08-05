@@ -1,7 +1,7 @@
-package v2024_test
+package zdpgo_algorithm_test
 
 import (
-	v2024 "github.com/zhangdapeng520/zdpgo_algorithm/v2024"
+	v2024 "github.com/zhangdapeng520/zdpgo_algorithm"
 	"testing"
 )
 

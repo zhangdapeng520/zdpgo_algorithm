@@ -1,4 +1,4 @@
-package v2024
+package zdpgo_algorithm
 
 // SearchBinary 二分查找算法的基本实现
 // @param arr 要查找数组，必须是有序的
